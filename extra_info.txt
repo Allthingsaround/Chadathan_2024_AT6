@@ -1,0 +1,4 @@
+validate_positive_integers validates whether each string in the input list represents a positive integer. 
+It takes argument input_list which is a list of strings that the method will validate.
+It returns a list of validated integers according to it's properties.
+It prints a message of either a success or failure of validating the integers through an if-else after the validatio check.
